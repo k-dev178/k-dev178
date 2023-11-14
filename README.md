@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rach%20&fontSize=90)
+
 ## Stacks
 ### Langueges
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white">&nbsp;
