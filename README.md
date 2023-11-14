@@ -21,4 +21,6 @@
 
 ## zz
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={gwisej68})](https://solved.ac/{gwisej68})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gwisej68)](https://solved.ac/gwisej68)&nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rach-dev178&show_icons=true&theme=radical)
+
