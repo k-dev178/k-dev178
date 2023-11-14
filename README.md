@@ -12,8 +12,8 @@
 ### tools
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white">&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/openjdk-%23437291?logo=openjdk&logoColor=black&color=white">&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/googlechrome-%234285F4?logo=googlechrome&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Chrome-%23007ACC?logo=googlechrome&logoColor=white">&nbsp;
 
 ### IDE
-<img alt="Static Badge" src="https://img.shields.io/badge/visualstudiocode-%23007ACC?logo=visualstudiocode&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white">&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA%20CE-%23007ACC?logo=intellijidea&logoColor=white">&nbsp;
