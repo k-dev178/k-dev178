@@ -20,7 +20,9 @@
 
 ## Solved.ac
 Problem Solving with 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=white">&nbsp;
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gwisej68)](https://solved.ac/gwisej68)&nbsp;
