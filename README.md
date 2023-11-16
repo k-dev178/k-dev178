@@ -16,7 +16,7 @@
 
 ### IDE
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white">&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA%20CE-%23007ACC?logo=intellijidea&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23007ACC?logo=intellijidea&logoColor=white">&nbsp;
 
 ## Solved.ac
 Problem Solving with 
