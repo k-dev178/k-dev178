@@ -8,6 +8,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=white">&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23F80000?logo=oracle&logoColor=white">&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/CPP-%23A8B9CC?logo=C&logoColor=white">&nbsp;
 
 ### tools
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white">&nbsp;
@@ -22,6 +23,7 @@
 Problem Solving with 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=white">&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/CPP-%23A8B9CC?logo=C&logoColor=white">&nbsp;
 
 
 [![Solved.ac
