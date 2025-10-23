@@ -13,5 +13,7 @@ Computer Science/
 ---
 <pre>
 Web/
+├── Python
+│   └── <a href="https://github.com/k-dev178/Python_Scrolling_SELF_STDUY">Web Scrolling</a>
 └── <a href="https://github.com/k-dev178/Java_SELF_STUDY">Java</a>
 </pre>
