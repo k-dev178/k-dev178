@@ -1,4 +1,4 @@
-## 📂 Project Structure
+## 📂 공부 폴더
 <pre>
 Computer Science/
 ├── 알고리즘
@@ -9,4 +9,7 @@ Computer Science/
 └── 네트워크
     ├── <a href="https://github.com/k-dev178/NetWork_IN_CLASS">INCLASS</a> # 학교 시험용
     └── SELF_STUDY # 자습
+
+Web/
+└── <a href="https://github.com/k-dev178/Java_SELF_STUDY">Java</a>
 </pre>
