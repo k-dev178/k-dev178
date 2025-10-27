@@ -1,4 +1,4 @@
-## 📂 공부 폴더
+## Computer Science
 <pre>
 Computer Science/
 ├── 알고리즘
@@ -11,9 +11,15 @@ Computer Science/
     └── SELF_STUDY # 자습
 </pre>
 ---
+## Web
 <pre>
 Web/
 ├── Python
 │   └── <a href="https://github.com/k-dev178/Python_Scrolling_SELF_STDUY">Web Scrolling</a>
 └── <a href="https://github.com/k-dev178/Java_SELF_STUDY">Java</a>
+</pre>
+---
+## Problem Solving
+Problem Solving/
+└── <a href="https://github.com/k-dev178/codeup_100">C++</a>
 </pre>
