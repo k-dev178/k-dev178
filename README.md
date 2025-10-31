@@ -26,3 +26,9 @@ Problem Solving/
 │   └── <a href="https://github.com/k-dev178/codeup_100">C++</a>
 └── <a href="#">자료구조</a>
 </pre>
+---
+## 그 외 활동
+<pre>
+그 외 활동/
+└── <a href="https://github.com/k-dev178/Others/blob/main/README.md">정보 시스템의 보안 요소 설정 방법의 중요성</a>
+</pre>
