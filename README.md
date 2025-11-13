@@ -2,7 +2,7 @@
 <pre>
 Computer Science/
 ├── 알고리즘
-├── 자료구조
+├── <a href="https://github.com/k-dev178/Data-Structure">자료구조</a>
 ├── 컴퓨터구조
 ├── 운영체제
 ├── 데이터베이스
@@ -24,7 +24,8 @@ Web/
 Problem Solving/
 ├── Codeup 100제
 │   └── <a href="https://github.com/k-dev178/codeup_100">C++</a>
-└── <a href="#">자료구조</a>
+├── <a href="https://github.com/k-dev178/Data-Structure">자료구조</a>
+└── <a href="https://github.com/k-dev178/solved_ac">solved.ac</a>    
 </pre>
 ---
 ## 그 외 활동
