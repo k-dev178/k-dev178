@@ -23,7 +23,6 @@ Web/
 Problem Solving/
 ├── Codeup 100제
 │   └── <a href="https://github.com/k-dev178/codeup_100">C++</a>
-├── <a href="https://github.com/k-dev178/Data-Structure">자료구조</a>
 └── <a href="https://github.com/k-dev178/solved_ac">solved.ac</a>    
 </pre>
 ---
