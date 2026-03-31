@@ -26,7 +26,7 @@ Backend Beginner/
 │   └── <a href="https://github.com/k-dev178/Java">Java</a>
 ├── Version Control Systems : GIT / Repo Hosting Services : GITHUB
     ├── <a href="https://github.com/k-dev178/git_sum">git/github - Sum</a>
-    └── <a href="https://github.com/k-dev178/git-github">git/github - Project File</a>
+    └── <a href="https://github.com/k-dev178/git_practice_file">git/github - Project File</a>
 
 </pre>
 
