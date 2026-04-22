@@ -1,58 +1,102 @@
-## Computer Science
-<pre>
-Computer Science/
-├── 알고리즘
-├── <a href="https://github.com/k-dev178/Data-Structure">자료구조</a>
-├── 컴퓨터구조
-├── 운영체제
-├── 데이터베이스
-└── 네트워크
-</pre>
----
-## Web
-<pre>
-Web/
-├── Python
-│   └── <a href="https://github.com/k-dev178/Python_Scrolling_SELF_STDUY">Web Scrolling</a>
-└── <a href="https://github.com/k-dev178/Java_SELF_STUDY">Java</a>
-    └── <a href="https://github.com/k-dev178/java_springboot">SpringBoot</a>
-</pre>
----
-## Backend
-<pre>
-Backend Beginner/
-├── Pick a Language
-│   ├── <a href="https://github.com/k-dev178/Python_Scrolling_SELF_STDUY">Python</a>
-│   └── <a href="https://github.com/k-dev178/Java">Java</a>
-├── Version Control Systems : GIT / Repo Hosting Services : GITHUB
-    ├── <a href="https://github.com/k-dev178/git_sum">git/github - Sum</a>
-    └── <a href="https://github.com/k-dev178/git_practice_file">git/github - Project File</a>
+<div align="center">
 
-</pre>
+# 💻 k-dev178
 
-<pre>
-Backend/ : ⚠️HOLD!!
-└── <a href="https://github.com/k-dev178/BR_Introduction/tree/main">Introduction</a>
-    └── <a href="https://github.com/k-dev178/BR_Introduction/blob/main/How_does_the_internet_work.md">How does the internet work?</a>
-</pre>
+**백엔드 개발자를 꿈꾸는 컴퓨터공학도**
+
+컴퓨터공학과 · 2022학번
+
+</div>
+
 ---
-## DevOps
-<pre>
-DevOps/
-└── <a href="#">Linux</a>
-</pre>
+
+## 👋 About Me
+
+- 🎓 컴퓨터공학과 재학 중 (2022학번) — 현재 졸업작품 진행 중이에요
+- 💻 **Backend Developer**를 목표로 Java / Spring Boot, Python / FastAPI를 공부하고 있어요
+- 📚 자료구조·알고리즘 등 CS 기초를 꾸준히 다지고 있어요
+- ✍️ 배운 내용은 레포에 정리하는 편이에요
+
 ---
-## Problem Solving
-<pre>
-Problem Solving/
-├── Codeup 100제
-│   └── <a href="https://github.com/k-dev178/codeup_100">C++</a>
-└── <a href="https://github.com/k-dev178/solved_ac">solved.ac</a>    
-</pre>
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frameworks**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CentOS 7](https://img.shields.io/badge/CentOS%207-262577?style=for-the-badge&logo=centos&logoColor=white)
+
 ---
-## 그 외 활동
-<pre>
-그 외 활동/
-├── <a href="https://github.com/k-dev178/Others/blob/main/README.md">정보 시스템의 보안 요소 설정 방법의 중요성</a>
-└── <a href="https://github.com/k-dev178/Others/blob/main/NS%ED%99%88%EC%87%BC%ED%95%91%203%EB%85%84%EC%B0%A8%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%A7%90%ED%95%98%EB%8A%94%20%ED%98%84%EC%97%85%EA%B3%BC%20%EC%B7%A8%EC%97%85%20%EB%A1%9C%EB%93%9C%EB%A7%B5.md">NS홈쇼핑 3년차 백엔드 개발자가 말하는 현업과 취업 로드맵</a>
-</pre>
+
+## 📌 Pinned Projects
+
+<p>
+  <a href="https://github.com/k-dev178/Python_Scrolling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=Python_Scrolling" />
+  </a>
+  <a href="https://github.com/k-dev178/git_sum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=git_sum" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/k-dev178/Kokoa_clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=Kokoa_clone" />
+  </a>
+  <a href="https://github.com/k-dev178/codeup_100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=codeup_100" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/k-dev178/php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=php" />
+  </a>
+  <a href="https://github.com/k-dev178/momentum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=momentum" />
+  </a>
+</p>
+
+> 📚 전체 학습 로드맵은 [`my-study-plan.md`](./my-study-plan.md) 에서 확인하실 수 있어요.
+
+---
+
+## ⚡ Vibe Coding
+
+> AI와 함께 가볍게 만들어본 프로젝트들이에요.
+
+<p>
+  <a href="https://github.com/k-dev178/dc_voicereply-downloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=dc_voicereply-downloader" />
+  </a>
+  <a href="https://github.com/k-dev178/Job_Scrape">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=Job_Scrape" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/k-dev178/cde_auto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=cde_auto" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![k-dev178's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-dev178&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-dev178&layout=compact)
+
+</div>
+
+---
+
+## 📫 Contact
+
+- 📧 gwisej68@gmail.com
