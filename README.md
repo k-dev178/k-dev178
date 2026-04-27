@@ -62,7 +62,7 @@
   </a>
 </p>
 
-> 📚 전체 학습 로드맵은 [`my-study-plan.md`](./my-study-plan.md) 에서 확인하실 수 있어요.
+> 📚 전체 학습 로드맵은 [`my-study-plan.md`](https://github.com/k-dev178/MyStudyPlan) 에서 확인하실 수 있어요.
 
 ---
 
