@@ -2,8 +2,7 @@
 
 # 💻 k-dev178
 
-**백엔드 개발자를 꿈꾸는 컴퓨터공학도**
-
+**백엔드 개발자를 꿈꾸는 컴퓨터공학도**  
 컴퓨터공학과 · 2022학번
 
 </div>
@@ -12,7 +11,8 @@
 
 ## 👋 About Me
 
-- 🎓 컴퓨터공학과 재학 중 (2022학번) — 현재 졸업작품 진행 중이에요
+- 🎓 컴퓨터공학과 재학 중 (2022학번)
+- 🚧 **졸업작품 진행 중** — 학생 학점 데이터 기반 서비스 (2026 상반기 공개 예정)
 - 💻 **Backend Developer**를 목표로 Java / Spring Boot, Python / FastAPI를 공부하고 있어요
 - 📚 자료구조·알고리즘 등 CS 기초를 꾸준히 다지고 있어요
 - ✍️ 배운 내용은 레포에 정리하는 편이에요
@@ -35,31 +35,16 @@
 
 ---
 
-## 📌 Pinned Projects
+## ⚡ Projects
+
+> AI와 함께 만들어본, 실제 필요해서 만든 도구들이에요.
 
 <p>
-  <a href="https://github.com/k-dev178/git_sum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=git_sum" />
-  </a>
-  <a href="https://github.com/k-dev178/codeup_100">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=codeup_100" />
-  </a>
-</p>
-
-> 📚 전체 학습 로드맵은 [`my-study-plan.md`](https://github.com/k-dev178/MyStudyPlan) 에서 확인하실 수 있어요.
-
----
-
-## ⚡ Vibe Coding
-
-> AI와 함께 가볍게 만들어본 프로젝트들이에요.
-
-<p>
-  <a href="https://github.com/k-dev178/dc_voicereply-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=dc_voicereply-downloader" />
-  </a>
   <a href="https://github.com/k-dev178/Job_Scrape">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=Job_Scrape" />
+  </a>
+  <a href="https://github.com/k-dev178/dc_voicereply-downloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=dc_voicereply-downloader" />
   </a>
 </p>
 <p>
@@ -70,11 +55,22 @@
 
 ---
 
+## 📚 Learning Logs
+
+> 꾸준히 공부한 흔적들이에요.
+
+- 🧮 [codeup_100](https://github.com/k-dev178/codeup_100) — 알고리즘·기초 문제 풀이
+- 🌱 [git_sum](https://github.com/k-dev178/git_sum) — Git 워크플로우 연습
+- 📖 [MyStudyPlan](https://github.com/k-dev178/MyStudyPlan) — 전체 학습 로드맵
+
+---
+
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
 
-![k-dev178's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-dev178&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-dev178&layout=compact)
+![k-dev178's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-dev178&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-dev178&layout=compact)
 
 </div>
 
@@ -82,4 +78,4 @@
 
 ## 📫 Contact
 
-- 📧 gwisej68@gmail.com
+- 📧 [gwisej68@gmail.com](mailto:gwisej68@gmail.com)
