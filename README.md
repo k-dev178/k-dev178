@@ -38,27 +38,11 @@
 ## 📌 Pinned Projects
 
 <p>
-  <a href="https://github.com/k-dev178/Python_Scrolling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=Python_Scrolling" />
-  </a>
   <a href="https://github.com/k-dev178/git_sum">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=git_sum" />
   </a>
-</p>
-<p>
-  <a href="https://github.com/k-dev178/Kokoa_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=Kokoa_clone" />
-  </a>
   <a href="https://github.com/k-dev178/codeup_100">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=codeup_100" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/k-dev178/php">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=php" />
-  </a>
-  <a href="https://github.com/k-dev178/momentum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-dev178&repo=momentum" />
   </a>
 </p>
 
@@ -88,10 +72,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
-![k-dev178's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-dev178&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-dev178&layout=compact)
+![k-dev178's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-dev178&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-dev178&layout=compact)
 
 </div>
 
