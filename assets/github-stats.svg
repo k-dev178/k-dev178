@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="400" viewBox="0 0 580 400" role="img" aria-labelledby="title desc">
+  <title id="title">k-dev178 · GitHub overview</title>
+  <desc id="desc">Public non-fork repository statistics. Languages counted by repository.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; }
+    .heading { fill: #7dd3fc; font-size: 20px; font-weight: 600; }
+    .number { fill: #f1f5f9; font-size: 30px; font-weight: 700; }
+    .body { fill: #e2e8f0; font-size: 15px; }
+    .muted { fill: #94a3b8; font-size: 13px; }
+  </style>
+  <rect x="1" y="1" width="578" height="398" rx="16" fill="#0f172a" stroke="#334155"/>
+  <text x="28" y="41" class="heading">k-dev178 / GitHub</text>
+  <text x="28" y="105" class="number">25</text><text x="28" y="131" class="muted">Repositories</text><text x="208" y="105" class="number">0</text><text x="208" y="131" class="muted">Stars</text><text x="388" y="105" class="number">1</text><text x="388" y="131" class="muted">Forks</text><text x="28" y="203" class="body">PHP</text><text x="550" y="203" text-anchor="end" class="muted">3 repos</text><text x="28" y="234" class="body">Python</text><text x="550" y="234" text-anchor="end" class="muted">3 repos</text><text x="28" y="265" class="body">C++</text><text x="550" y="265" text-anchor="end" class="muted">3 repos</text><text x="28" y="296" class="body">JavaScript</text><text x="550" y="296" text-anchor="end" class="muted">2 repos</text><text x="28" y="327" class="body">C</text><text x="550" y="327" text-anchor="end" class="muted">1 repos</text>
+  <path d="M28 151H552" stroke="#334155"/>
+  <text x="28" y="177" class="muted">Primary languages · repository count</text>
+  <text x="28" y="375" class="muted">Public non-fork repos · Updated 2026-11-03 UTC</text>
+</svg>

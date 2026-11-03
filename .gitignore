@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Local editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
