@@ -1,51 +1,38 @@
 <div align="center">
 
-# 안녕하세요, k-dev178입니다 👋
+# k-dev178 👋
 
-**백엔드 개발자를 목표로 공부하는 컴퓨터공학도**
+**Python으로 문제를 풀고, 배운 것을 기록해요.**
 
-필요한 도구를 직접 만들고, 배운 내용을 코드와 기록으로 남기고 있어요.
-
-[프로젝트](#-projects) · [학습 기록](#-learning) · [이메일](mailto:gwisej68@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-6366F1?style=flat-square&logo=github&logoColor=white)](#-projects)
+[![Study Notes](https://img.shields.io/badge/Study_Notes-0F766E?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/k-dev178/MyStudySummary)
+[![Email](https://img.shields.io/badge/Email-475569?style=flat-square&logo=gmail&logoColor=white)](mailto:gwisej68@gmail.com)
 
 </div>
 
+---
+
 ## 👋 About
 
-- 컴퓨터공학과 2022학번이에요.
-- 학생 학점 데이터를 활용하는 졸업작품을 진행하고 있어요.
-- Java / Spring Boot와 Python / FastAPI를 공부하며 백엔드 개발을 준비하고 있어요.
-- 자료구조와 알고리즘 등 CS 기초도 꾸준히 다지고 있어요.
+- 🎓 컴퓨터공학과 22학번, 학생 학점 데이터를 활용한 졸업작품을 완성했어요.
+- 🐍 지금은 **Python으로 코딩 테스트를 준비**하고 있어요.
+- 📝 공부한건 [학습 노트](https://github.com/k-dev178/MyStudySummary)에 정리하고 있어요.
 
 ## 🛠 Tech Stack
 
-| 구분 | 기술 |
-| :--- | :--- |
-| 사용 경험 | Python · C · Flask |
-| 공부 중 | Java · Spring Boot · FastAPI |
-| 도구 · 환경 | Git · GitHub · Linux (CentOS) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 ## ⚡ Projects
 
-실제로 필요해서, AI와 함께 만들어본 도구들이에요.
-
-| 프로젝트 | 소개 |
-| :--- | :--- |
-| [Job_Scrape](https://github.com/k-dev178/Job_Scrape) | 원티드 개발자 채용 공고를 바탕으로 기술 스택별 수요를 살펴보는 도구 |
-| [dc_voicereply-downloader](https://github.com/k-dev178/dc_voicereply-downloader) | 디시인사이드 보이스리플 다운로드 도구 |
-| [cde_auto](https://github.com/k-dev178/cde_auto) | Python으로 만든 자동화 프로젝트 |
-
-## 📚 Learning
-
-- [codeup_100](https://github.com/k-dev178/codeup_100) — 코드업 기초 문제 풀이
-- [git-study-summary](https://github.com/k-dev178/git-study-summary) — Git 학습 정리
-- [MyStudySummary](https://github.com/k-dev178/MyStudySummary) — 공부한 내용 모아보기
-
-## 📊 GitHub
-
-[![공개 원본 저장소 수, 스타, 포크와 저장소 대표 언어 통계](assets/github-stats.svg)](https://github.com/k-dev178?tab=repositories)
-
-<sub>공개 원본 저장소 기준 · 대표 언어는 저장소 수로 집계 · 매일 자동 갱신</sub>
+| 프로젝트 | 소개 | 상태 |
+| :--- | :--- | :--- |
+| [캡스톤 프로젝트](https://github.com/jjuniv-capstone) | 학생 학점 데이터를 활용한 졸업작품 | 완료 |
+| [현재 진행 중인 프로젝트](https://github.com/2026-2-projects) | 2026-2-projects | 진행 중 |
 
 ## 📫 Contact
 
