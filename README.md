@@ -15,7 +15,6 @@
 ## 👋 About
 
 - 🎓 컴퓨터공학과 22학번, 학생 학점 데이터를 활용한 졸업작품을 완성했어요.
-- 🐍 지금은 **Python으로 코딩 테스트를 준비**하고 있어요.
 - 📝 공부한건 [학습 노트](https://github.com/k-dev178/MyStudySummary)에 정리하고 있어요.
 
 ## 🛠 Tech Stack
