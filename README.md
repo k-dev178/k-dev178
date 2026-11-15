@@ -1,4 +1,12 @@
 
+
+## 🌐 Railway 배포
+
+- `php` — [php-portfolio.up.railway.app](https://php-portfolio.up.railway.app/)
+- `Python_Scrolling` — [python-scrolling.up.railway.app](https://python-scrolling.up.railway.app/)
+- `cde_web` — [cdeweb-production.up.railway.app](https://cdeweb-production.up.railway.app/)
+- `Kokoa_clone` — [kokoaclone-production.up.railway.app](https://kokoaclone-production.up.railway.app/)
+
 <div align="center">
 
 # k-dev178 👋
